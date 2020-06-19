@@ -3,7 +3,7 @@ kind: RadixApplication
 metadata:
   name: vnys-smailandstuff
 spec:
-  build:
+  # build:
     # secrets:
       # - SNYK_TOKEN
   environments:
